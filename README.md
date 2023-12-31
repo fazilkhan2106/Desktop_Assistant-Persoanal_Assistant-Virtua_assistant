@@ -29,6 +29,7 @@ Translator
 Volume Up and Down
 Repeat my words
 
+install
 
 
 
