@@ -38,7 +38,7 @@ This assistant will initially greet you in accordance with the moment when you l
 + Volume Up and Down
 + Repeat my words
 
-# Credits
+# Credit
 ---
 
 __Code with harry__
