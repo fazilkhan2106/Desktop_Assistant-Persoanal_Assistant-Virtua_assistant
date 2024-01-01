@@ -39,6 +39,7 @@ This assistant will initially greet you in accordance with the moment when you l
 + Repeat my words
 
 # Credits
+---
 
 __Code with harry__
 
@@ -47,6 +48,7 @@ https://www.youtube.com/watch?v=Lp9Ftuq2sVI&t=1489s
 ```
 
 # License
+---
 (c) copyright FazilKhan. All rights reserved.
 
 
